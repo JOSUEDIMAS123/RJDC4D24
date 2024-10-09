@@ -41,24 +41,24 @@
     <div class="container">
         <h1>Josue Dimas</h1>
 
-<div class="photo"><img src="josuedc.png" with="50" height="150"></div>
+<div class="photo"><img src="pecas.png" with="50" height="150"></div>
 </style>
         <div class="contact-info">
             <h2 class="section-title">Datos Personales</h2>
             <p><strong>Estado Civil:</strong> Soltero</p>
             <p><strong>Fecha de Nacimiento:</strong> 14 de diciembre de 2007</p>
             <p><strong>Nacionalidad:</strong> Guatemalteco</p>
-            <p><strong>Dirección:</strong> zona 2 de villa nueva , aldea villa lobos el solano </p>
-     <p><strong>Teléfono:</strong> 5492-6541</p>
-            <p><strong>Email:</strong> josuedimas593@gmail.com</p>
+            <p><strong>Dirección:</strong> zona 2 de villa nueva aldea villa lobos el solano </p>
+     <p><strong>Teléfono:</strong> 5320-0116</p>
+            <p><strong>Email:</strong> alvaradosicajolvirginiaisabel@gmail.com</p>
         </div>
 
         <div class="education"><h2 class="section-title">
             <h2class="section-title">Datos académicos</h2>
             <ul><br>
-<li><strong>colegio roca eterna</strong> -Enero 2015-Noviembre 2020<br> 
+<li><strong>Escuela Rural Mixta Mario Alioto López</strong> -Enero 2015-Noviembre 2020<br> 
 <li>Básicos:</li>
-<li><strong>Instituto Profesional de Computación</strong>-Febrero 2021-Noviembre 2023<br>
+<li><strong>Instituto Eterna Primavera</strong>-Febrero 2021-Noviembre 2023<br>
 <li>Actual:</li>
 <li><strong>Instituto Profesional de Computación</strong><br>
 4to. Bachillerato en Diseño Gráfico
@@ -69,8 +69,9 @@
             <ul>
                 <li>Creación dediseños</li>
                 <li>Creatividad</li>
-                <li>jugar futbol</li>
+                <li>Comunicar correctamente</li>
                 <li>Escucha activa</li>
+  <li>Liderazgo</li>
             </ul>
         </div>
     </div>
